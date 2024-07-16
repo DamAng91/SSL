@@ -4,7 +4,9 @@
     ** Apellido: Angelucci **
     ** Nombre: Damian L. **
 
-## Número y título del trabajo: 0 Hello, World! 
+## Número y título del trabajo: 
+    ** 0 Hello, World! 
 
-### Enunciado:
+### Compilador: 
+    ** gcc (MinGW.org GCC Build-2) 9.2.0 
 
